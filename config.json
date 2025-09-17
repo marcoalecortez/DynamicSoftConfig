@@ -1,0 +1,4 @@
+{
+  "primaryApi": "https://api.estoandamal.com",
+  "fallbackApi": "https://api.dynamicsoft.com"
+}
